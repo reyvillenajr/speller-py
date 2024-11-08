@@ -17,5 +17,3 @@ To enhance the speed at which words in a provided text could be spell-checked ag
 3. Size returns the number of nodes/words added by increasing them at each iteration of the while loop contained within the load function.
 4. The load function checks each node against each word in the hash table with the corresponding index to return true if it is present.
 5. Unload frees all of the data contained within the hash table by iterating through the hash table.
-
-Note* Dictionaries and sample texts are included in this repository.
